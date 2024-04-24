@@ -1,6 +1,8 @@
 
 # The Captain's Log
 
+![captain.webp](attachment:captain.webp)
+
 ## Overview
 "The Captain's Log" is a transcription and interaction machine equipped with AI capabilities. This application captures user audio, transcribes it, analyzes the intent, and generates appropriate responses using AI models. It provides a comprehensive suite of logging functionalities to document interactions and responses effectively.
 
