@@ -40,4 +40,4 @@ Using the auxiliary logging tool `logger_tool.py`, logging is configured to hand
 To contribute to this project, please clone the repository, make your changes, and submit a pull request.
 
 ## License
-Specify the license under which your project is available. Example: MIT, GPL, etc.
+You agree to make me a cup of tea if you use this software.
