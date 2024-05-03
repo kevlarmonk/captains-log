@@ -31,10 +31,13 @@ Using the auxiliary logging tool `logger_tool.py`, logging is configured to hand
 
 ## Technology Stack
 - **Python**: Primary programming language.
-- **PyAudio**: For capturing audio input.
 - **Watchdog**: Monitoring log files for changes.
 - **Requests**: Handling HTTP requests to API endpoints.
+- **PyAudio**: For capturing audio input.
+- **Whisper model**: For transcribing audio input.
+- **Ollama model**: For generating responses.
 - **Torchaudio and Silero Models**: For audio processing and speech synthesis.
+
 
 ## Contributors
 To contribute to this project, please clone the repository, make your changes, and submit a pull request.
